@@ -1,0 +1,204 @@
+.back1{
+    margin: -8px;
+    background:linear-gradient(1.35deg, rgba(0, 0, 0, 0.9) -7.81%, rgba(0, 0, 0, 0) 39.41%), url(image/zvezdi-2560x1440-kosmos.jpg)no-repeat;
+    background-size: cover;
+}
+.back2{
+    margin: -8px;
+    background: linear-gradient(1.35deg, rgba(0, 0, 0, 0.9) -7.81%, rgba(0, 0, 0, 0) 39.41%), url(image/dark-space-minimal-art-4k-ll-2560x1440.jpg)no-repeat;
+    background-size: cover;
+}
+.logo{
+    margin-top: 85px;
+    width: 495px;
+    height: 115px;
+    left: 50px;
+    top: 85px;
+    background: url(image/Logo.png);
+}
+.NewsS{
+    margin-top: 350px;
+    font-family: Alatsi;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    color: black;
+    display: flex;
+    justify-content: center;
+    background: radial-gradient(30.02% 52.03% at 49.77% 19.59%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.strelka{
+    width: 30px;
+    height: 0px;
+    background: url(image/strelka.png);
+}
+.NewsList{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.News1,
+.News2,
+.News3,
+.News4,
+.News5{
+    height: 275px;
+    font-family: Alatsi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    background: rgba(196, 196, 196, 0.75);
+}
+.News1{
+    margin-top: 100px;
+    width: 1400px;
+}
+.photo1{
+    position: absolute;
+    width: 405px;
+    height: 275px;
+    background: url(image/1280px-SpaceX_Crew_Dragon_\(More_cropped\).jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.News2{
+    width: 1400px;
+    margin-top: 200px;
+}
+.photo2{
+    position: absolute;
+    width: 405px;
+    height: 275px;
+    background: url(image/3eb32d9703a8728f8eeaa8104f3d90b1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.News3{
+    width: 940px;
+    margin-top: 200px;
+}
+.photo3{
+    position: absolute;
+    width: 405px;
+    height: 275px;
+    background: url(image/8e679a079bee9590602d8289ad702c97.png);
+    background-size: cover;
+    border-radius: 20px;
+}
+.News4{
+    width: 940px;
+    margin: 100px;
+}
+.photo4{
+    position: absolute;
+    width: 405px;
+    height: 275px;
+    background: url(image/ae283c57fba9502981ff07ea0c67464d.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.News5{
+    margin-top: 200px;
+    height: 660px;
+    width: 405px;
+}
+.photo5{
+    position: absolute;
+    width: 405px;
+    height: 275px;
+    background: url(image/093709188bcc45fca3b5f1026026ebc1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.newscolumn{
+    display: flex;
+    flex-direction: column;
+}
+.newsrow{
+    display: flex;
+    flex-direction: row;
+}
+.button1{
+    margin-top: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    width: 445px;
+    height: 100px;
+    background: rgba(196, 196, 196, 0.2);
+    border-radius: 25px;
+    font-family: Rhodium Libre;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quote{
+    font-family: Alatsi;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: flex;
+    margin-top: 160px;
+    justify-content: center;
+    background: radial-gradient(209.62% 209.62% at 50% -46.15%, #C9C9C9 0%, rgba(201, 201, 201, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.taskbar{
+    display: inline-block;
+    max-width: 1620px;
+    align-items: center;
+}
+.nav{
+    text-decoration: none;
+    color: black;
+    margin: 0 40px;
+    font-family: Alatsi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 45px;
+}
+#taskbar1{
+    background: linear-gradient(282.78deg, rgba(255, 255, 255, 0.7) 11.03%, rgba(255, 255, 255, 0) 36.56%), linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#taskbar2{
+    background: linear-gradient(297.07deg, rgba(255, 255, 255, 0.7) 45.33%, rgba(255, 255, 255, 0) 96.69%), linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#taskbar3{
+    background: linear-gradient(229.33deg, #000000 -144.65%, rgba(0, 0, 0, 0) 63.98%), linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
